@@ -3,7 +3,6 @@ import pyttsx3
 import datetime
 import webbrowser
 
-# Initialize text-to-speech engine
 engine = pyttsx3.init()
 
 def speak(text):
